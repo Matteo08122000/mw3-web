@@ -1,0 +1,145 @@
+
+body{
+    min-width: 320px;
+    
+}
+
+.myClass {
+   border: 3px solid black;
+}
+
+
+.imgUser{
+    width: 50px;
+    height: 50px;
+}
+
+.bell{
+    width: 50px;
+    height: 50px;
+    background-color: #E2E1E5;
+}
+
+.bellIcon{
+    height: 20px;
+    width: 20px;
+}
+
+.btnPersonal{
+    color: #7550fe;
+    border: 1px solid #7550fe;
+}
+
+
+.btnPersonal:hover{
+    color: #7550fe;
+    border: 1px solid white;
+}
+
+.buttonIcon{
+    width: 35px;
+    height: 35px;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+.backgroundJumbotron{
+    background-color: #7550fe;
+}
+
+.jumboP{
+    color: #b1b1b1;
+}
+
+.button1{
+    padding: 13px;
+    background-color: #1ACB98;
+    font-size: 13px;
+}
+
+.button2{
+    background-color: white;
+    font-size: 13px;
+    padding: 13px;
+   
+}
+
+.dimension{
+    width: 430px;
+}
+
+
+.h1Person{
+    white-space: nowrap;
+}
+
+.bellCamera{
+    width: 40px;
+    height: 40px;
+    background-color: #FFEEDA;
+}
+
+.bellIconCamera{
+    width: 25px;
+    color: #C28131;
+}
+
+
+
+h5{
+    color: #19113c;
+    font-size: 15px;
+    white-space: nowrap;
+}
+
+span{
+    color: #564c78;
+    font-size: 13px;
+    white-space: nowrap;
+}
+
+.Color{
+    background-color: rgba(255, 255, 255, 0.704);
+}
+
+.Card-circle{
+    width: 20px;
+}
+
+.Yellow-Star{
+    color: goldenrod;
+}
+
+.Stats-Blue{
+    color: #7550fe;
+}
+
+.Line-Divise{
+    border: 0.5px solid #edecf2;
+}
+
+.Number-color{
+    color: #ACA8BD;
+}
+
+
+
+.myClassCard{
+    border-radius: 0 0 10px 10px;
+}
+
+.myClassCard img{
+    border-radius: 10px 10px 0 0;
+}
+
+.MyImg img{
+    min-width: 320px;
+}
+
+.MyFooter{
+    background-color: #F5F4F8;
+
+}
